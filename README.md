@@ -26,7 +26,7 @@ RideWave 是一款使用 React Native 框架和 Expo 构建的现代化打车应
 ### 步骤
 1. **克隆仓库**
 ```bash
-git clone https://github.com/xb2lf/RideWave/RideWave.git
+git clone https://github.com/xb2lf/RideWave.git
 cd RideWave
 ```
 2. **安装依赖**
